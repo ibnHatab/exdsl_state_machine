@@ -1,9 +1,0 @@
-# File    : state_machine.ex
-
-defmodule StateMachine do
-    @moduledoc """
-Provides a macros for state machine definition
-"""
-    
-    
-end
